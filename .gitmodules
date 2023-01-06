@@ -1,5 +1,11 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/epinowcast/universe
 	shallow = true
 	branch = HEAD
+[submodule "epinowcast"]
+	path = epinowcast
+	url = https://github.com/epinowcast/epinowcast
+	shallow = true
+	branch = *release
+	registered = true
