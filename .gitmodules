@@ -7,7 +7,7 @@
 	path = epinowcast
 	url = https://github.com/epinowcast/epinowcast
 	shallow = true
-	branch = v0.2.1
+	branch = v0.2.2
 	registered = true
 [submodule "cmdstanr"]
 	path = cmdstanr
