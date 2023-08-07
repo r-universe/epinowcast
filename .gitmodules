@@ -10,6 +10,10 @@
 	path = epinowcast
 	url = https://github.com/epinowcast/epinowcast
 	branch = v0.2.2
+[submodule "hashprng"]
+	path = hashprng
+	url = https://github.com/epinowcast/hashprng
+	branch = *release
 [submodule "loo"]
 	path = loo
 	url = https://github.com/stan-dev/loo

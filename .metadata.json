@@ -2,5 +2,9 @@
   {
     "package": "epinowcast",
     "releasetag": true
+  },
+  {
+    "package": "hashprng",
+    "releasetag": true
   }
 ]
