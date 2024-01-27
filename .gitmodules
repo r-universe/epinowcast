@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/epinowcast/universe
+	url = https://github.com/epinowcast/epinowcast.r-universe.dev
 	branch = HEAD
 [submodule "cmdstanr"]
 	path = cmdstanr
