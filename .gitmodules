@@ -6,6 +6,10 @@
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
 	registered = false
+[submodule "epidist"]
+	path = epidist
+	url = https://github.com/epinowcast/epidist
+	branch = *release
 [submodule "epinowcast"]
 	path = epinowcast
 	url = https://github.com/epinowcast/epinowcast

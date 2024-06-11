@@ -6,5 +6,9 @@
   {
     "package": "hashprng",
     "releasetag": true
+  },
+  {
+    "package": "epidist",
+    "releasetag": true
   }
 ]
