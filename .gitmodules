@@ -22,3 +22,7 @@
 	path = loo
 	url = https://github.com/stan-dev/loo
 	registered = false
+[submodule "primarycensoreddist"]
+	path = primarycensoreddist
+	url = https://github.com/epinowcast/primarycensoreddist
+	branch = *release

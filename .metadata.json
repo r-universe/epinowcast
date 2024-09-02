@@ -10,5 +10,9 @@
   {
     "package": "epidist",
     "releasetag": true
+  },
+  {
+    "package": "primarycensoreddist",
+    "releasetag": true
   }
 ]
