@@ -25,4 +25,4 @@
 [submodule "primarycensoreddist"]
 	path = primarycensoreddist
 	url = https://github.com/epinowcast/primarycensoreddist
-	branch = *release
+	branch = v0.1.0
