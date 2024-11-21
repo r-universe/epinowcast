@@ -9,7 +9,7 @@
 [submodule "epidist"]
 	path = epidist
 	url = https://github.com/epinowcast/epidist
-	branch = *release
+	branch = v0.1.0
 [submodule "epinowcast"]
 	path = epinowcast
 	url = https://github.com/epinowcast/epinowcast
