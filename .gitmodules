@@ -25,4 +25,4 @@
 [submodule "primarycensored"]
 	path = primarycensored
 	url = https://github.com/epinowcast/primarycensored
-	branch = v1.0.0
+	branch = v1.1.0
