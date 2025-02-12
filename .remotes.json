@@ -2,6 +2,12 @@
   {
     "package": "cmdstanr",
     "url": "https://github.com/stan-dev/cmdstanr",
+    "via": ["epidist"],
+    "from": "epidist"
+  },
+  {
+    "package": "cmdstanr",
+    "url": "https://github.com/stan-dev/cmdstanr",
     "via": ["epinowcast"],
     "from": "epinowcast"
   },
