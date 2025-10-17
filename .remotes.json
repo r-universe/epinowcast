@@ -6,14 +6,8 @@
     "from": "epidist"
   },
   {
-    "package": "cmdstanr",
-    "url": "https://github.com/stan-dev/cmdstanr",
-    "via": ["epinowcast"],
-    "from": "epinowcast"
-  },
-  {
-    "package": "loo",
-    "url": "https://github.com/stan-dev/loo",
+    "package": "scoringutils",
+    "url": "https://github.com/epiforecasts/scoringutils",
     "via": ["epinowcast"],
     "from": "epinowcast"
   }
