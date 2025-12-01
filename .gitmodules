@@ -21,7 +21,7 @@
 [submodule "primarycensored"]
 	path = primarycensored
 	url = https://github.com/epinowcast/primarycensored
-	branch = v1.2.0
+	branch = v1.3.0
 [submodule "scoringutils"]
 	path = scoringutils
 	url = https://github.com/epiforecasts/scoringutils
