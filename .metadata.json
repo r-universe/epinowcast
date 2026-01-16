@@ -14,5 +14,9 @@
   {
     "package": "primarycensored",
     "releasetag": true
+  },
+  {
+    "package": "baselinenowcast",
+    "releasetag": true
   }
 ]

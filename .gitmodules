@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/epinowcast/epinowcast.r-universe.dev
 	branch = HEAD
+[submodule "baselinenowcast"]
+	path = baselinenowcast
+	url = https://github.com/epinowcast/baselinenowcast
+	branch = *release
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
