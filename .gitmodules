@@ -17,7 +17,7 @@
 [submodule "epinowcast"]
 	path = epinowcast
 	url = https://github.com/epinowcast/epinowcast
-	branch = v0.4.0
+	branch = v0.5.0
 [submodule "hashprng"]
 	path = hashprng
 	url = https://github.com/epinowcast/hashprng
