@@ -6,10 +6,6 @@
 	path = baselinenowcast
 	url = https://github.com/epinowcast/baselinenowcast
 	branch = *release
-[submodule "cmdstanr"]
-	path = cmdstanr
-	url = https://github.com/stan-dev/cmdstanr
-	registered = false
 [submodule "epidist"]
 	path = epidist
 	url = https://github.com/epinowcast/epidist
@@ -26,7 +22,3 @@
 	path = primarycensored
 	url = https://github.com/epinowcast/primarycensored
 	branch = v1.3.0
-[submodule "scoringutils"]
-	path = scoringutils
-	url = https://github.com/epiforecasts/scoringutils
-	registered = false
