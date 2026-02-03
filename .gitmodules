@@ -5,7 +5,7 @@
 [submodule "baselinenowcast"]
 	path = baselinenowcast
 	url = https://github.com/epinowcast/baselinenowcast
-	branch = *release
+	branch = v0.2.0
 [submodule "epidist"]
 	path = epidist
 	url = https://github.com/epinowcast/epidist
